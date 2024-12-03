@@ -2,6 +2,7 @@ public class star
 {
 public static void main(String []args)
 {
+System.out.println("Star pattern");
 int n=3;
 for(int i=1; i<=n; i++)
 {
