@@ -1,6 +1,6 @@
-public class PrintName {
+public class name {
     public static void main(String[] args) {
         
-        System.out.println("Gaurav Sonawane");
+        System.out.println("Hello world ");
     }
 }
